@@ -99,7 +99,7 @@ class CoffeeShop::CLI
             CoffeeShop::Coffee.all.clear
             CoffeeShop::Pastry.all.clear
         else   
-            puts "Not sure what you mean... instant karma loop comin' atcha mofo..."
+            puts "Not sure what you mean... instant karma loop comin' atcha, chief..."
         go_again?
         end    
     end 
